@@ -24,43 +24,42 @@ body{
   
 a   {
   background-color: transparent;
-    font-size: 12px;
-    padding: 10px;
-    width: 100px;
-    height: 40px;
-    color: white;
-    border-radius: 20px;
-    font-weight: 500;
-    text-align: center;
-  }
+  font-size: 12px;
+  padding: 10px;
+  width: 100px;
+  height: 40px;
+  color: white;
+  border-radius: 20px;
+  font-weight: 500;
+  text-align: center;
+}
   
 a:hover   {
-    background-color: lightblue;
-    color: white;
-  }
+  background-color: lightblue;
+  color: white;
+}
   
 .otsikko  {
-    background-color: white;
-    width: 50%;
-    text-align: center;
-    margin: auto;
-    padding: 1px;
+  background-color: white;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding: 1px;
   }
   
 .lanttu   {
-    background-color: white;
-    width: 50%;
-    text-align: center;
-    margin: auto;
-    padding: 1px;
+  background-color: white;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding: 1px;
   }
-  
 
-  footer  {
-    background-color: black;
-    text-align: center;
-    color: white;
-    font-size: 15px;
-    padding: 3px;
-    font-weight: 500;
+footer  {
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  padding: 3px;
+  font-weight: 500;
   }

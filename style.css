@@ -16,15 +16,15 @@ body    {
 }
 
 a   {
-    background-color: transparent;
-    font-size: 12px;
-    padding: 10px;
-    width: 100px;
-    height: 40px;
-    text-align: center;
-    color: white;
-    border-radius: 20px;
-    font-weight: 500;
+  background-color: transparent;
+  font-size: 12px;
+  padding: 10px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  color: white;
+  border-radius: 20px;
+  font-weight: 500;
 }
 
 a:hover   {
@@ -93,7 +93,6 @@ img:nth-child(5) {
   animation-delay: 8s;
 }
 
-
 footer  {
   background-color: transparent;
   text-align: center;
@@ -101,5 +100,4 @@ footer  {
   font-size: 15px;
   padding: 1px;
   font-weight: 500;
-
 }
