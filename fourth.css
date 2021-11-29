@@ -57,3 +57,12 @@ table, th, td   {
   margin: auto;
   padding: 10px;
 }
+
+footer  {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  padding: 2px;
+  font-weight: 500;
+}

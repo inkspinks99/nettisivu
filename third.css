@@ -55,3 +55,12 @@ a:hover   {
     padding: 1px;
   }
   
+
+  footer  {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 3px;
+    font-weight: 500;
+  }

@@ -93,12 +93,13 @@ img:nth-child(5) {
   animation-delay: 8s;
 }
 
+
 footer  {
   background-color: transparent;
   text-align: center;
   color: white;
   font-size: 15px;
-  padding: 2px;
+  padding: 1px;
   font-weight: 500;
 
 }
